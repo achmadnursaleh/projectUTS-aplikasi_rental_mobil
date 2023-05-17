@@ -1,6 +1,8 @@
 # Project UTS Mobil Programming
 
-Flutter app showing the UI of a car rental application.
+Nama  : Achmad Nur Saleh
+NIM   : 2111102441152
+Kelas : A
 
 |                                   Light UI                                    |                                       Dark Ui                                       |
 | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
