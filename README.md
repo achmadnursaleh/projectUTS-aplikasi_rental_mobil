@@ -1,4 +1,4 @@
-# Car Rental UI
+# Project UTS Mobil Programming
 
 Flutter app showing the UI of a car rental application.
 
